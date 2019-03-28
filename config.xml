@@ -2,10 +2,10 @@
 
 <widget xmins = "http://www.w3.org/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
-id ="com.phonegap.app2"
+id ="com.phonegap.appa2"
 version="1.0.0">
 
-<name>app2-especialidad tecnico en programacion</name>
+<name>appa2-especialidad tecnico en programacion</name>
 
 <description>
 Aplicacion que muestra informacion sobre la especialidad de tecnico en progaramacion cbtis
@@ -31,9 +31,9 @@ Aplicacion que muestra informacion sobre la especialidad de tecnico en progarama
 
 <!--<plugin name="cordova-plugin-geolocation" source="npm"/>-->
 <allow-intent href="https://*/*"/>
-<acces origin="https://*/*">
+<acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*">
+<acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--colocar icono app-->
